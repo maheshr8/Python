@@ -1,3 +1,3 @@
 # Python
 
-Name - Mahesh Balasaheb Raut
+Name - Mahesh B. Raut
